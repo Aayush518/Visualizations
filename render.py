@@ -1,5 +1,5 @@
 from manim import *
-from scenes.campus_network_scene import CampusNetwork
+from scenes.pytorrent import CampusNetwork
 
 def main():
     config.pixel_height = 900  # Adjust as needed
