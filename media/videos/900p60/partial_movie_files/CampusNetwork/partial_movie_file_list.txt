@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/603954612_2243701039_223132457.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3890345977_3235320560.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3541775940_3292118449.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3890345977_4066089770.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_1635570307_1509652753.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3890345977_2765865181.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3035330637_3666949926.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3890345977_3134861733.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_1772637712_951716846.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_1141282389_2563130112.mp4'
+file 'file:/Users/aayushadhikari/Desktop/manim/media/videos/900p60/partial_movie_files/CampusNetwork/301161192_3890345977_605340702.mp4'
